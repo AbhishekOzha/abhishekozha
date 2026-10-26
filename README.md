@@ -9,7 +9,7 @@ I'm a passionate **Full Stack Developer** currently working at **Vision Software
 - 👨‍💻 Software Engineer @ Vision Software PTY LTD (Remote)
 - 💻 Full Stack Developer | Python, Django, Django REST Framework
 - 🌱 Always learning and exploring new technologies
-- 📫 Reach me at: abhishekojha123455@gmail.com
+- 📫 Reach me at: abhishekojha123455@gmail.com/abhishekojha.work@gmail.com
 
 ---
 
